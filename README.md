@@ -2,9 +2,9 @@
 
 **BITS WILP | Machine Learning (S1-25_AIMLCZG565) | 2026**
 
-🔗 **Live Streamlit App**: https://heartdiseaseclassification-kgagpmdrswfccv84spu4zs.streamlit.app/
+🔗 **Live Streamlit App**: [Click here](https://heartdiseaseclassification-kgagpmdrswfccv84spu4zs.streamlit.app/)
 
-🔗 **GitHub Repository**: https://github.com/AchharK/Heart_Disease_Classification
+🔗 **GitHub Repository**: [Click here](https://github.com/AchharK/Heart_Disease_Classification)
 
 ---
 
